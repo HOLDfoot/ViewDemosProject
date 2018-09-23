@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_left_menu">
+<!--        <item>普通拖拽</item>
+        <item>回弹效果</item>-->
+        <item>上滑消失</item>
+        <item>左滑显示</item>
+    </string-array>
+</resources>

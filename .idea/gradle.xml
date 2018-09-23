@@ -8,7 +8,11 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/ChangeLineViewGroup" />
+            <option value="$PROJECT_DIR$/CustomLayoutDemo" />
+            <option value="$PROJECT_DIR$/PercentHeightDemo" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/dispatchTouchEvent" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

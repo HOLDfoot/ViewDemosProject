@@ -1,0 +1,23 @@
+<com.zhumingren.viewdraghelperdemo.View.LeftDrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                                                         android:id="@+id/drawerlayout"
+                                                         android:layout_width="match_parent"
+                                                         android:layout_height="match_parent">
+
+    <!--content-->
+    <FrameLayout
+        android:id="@+id/content_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    </FrameLayout>
+
+    <!--menu-->
+    <FrameLayout
+        android:id="@+id/menu_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+    </FrameLayout>
+
+
+</com.zhumingren.viewdraghelperdemo.View.LeftDrawerLayout>
