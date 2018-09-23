@@ -10,16 +10,16 @@ import android.widget.Button;
 /**
  * Created by lenovo on 2016/5/24.
  */
-public class CustomButtom extends AppCompatButton {
-    public CustomButtom(Context context) {
+public class CustomButton extends AppCompatButton {
+    public CustomButton(Context context) {
         super(context);
     }
 
-    public CustomButtom(Context context, AttributeSet attrs) {
+    public CustomButton(Context context, AttributeSet attrs) {
         super(context, attrs);
     }
 
-    public CustomButtom(Context context, AttributeSet attrs, int defStyleAttr) {
+    public CustomButton(Context context, AttributeSet attrs, int defStyleAttr) {
         super(context, attrs, defStyleAttr);
     }
 
