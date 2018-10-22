@@ -61,7 +61,7 @@ public class BombView extends View {
         logd(TAG, "count = " + count);
         
         int color = Color.argb(255, 255, 255, 0);
-        Drawable drawable = context.getResources().getDrawable(R.drawable.paper_scraps);
+        Drawable drawable = context.getResources().getDrawable(R.mipmap.paper_scraps);
         drawable.setColorFilter(color, PorterDuff.Mode.MULTIPLY);
         this.drawable = drawable;
         Bitmap bitmap = drawableToBitmap(drawable);

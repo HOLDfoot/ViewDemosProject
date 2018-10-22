@@ -6,7 +6,6 @@ import android.util.Log;
 
 import java.util.Random;
 
-
 /**
  * Created by ZhuMingren on 2017/12/19.
  */
