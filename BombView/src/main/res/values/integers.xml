@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="pieces_count_of_bomb_view">150</integer>
+</resources>
