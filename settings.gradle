@@ -1,1 +1,1 @@
-include ':app', ':waveview', 'ChangeLineViewGroup', 'CustomLayoutDemo', 'dispatchTouchEvent', 'PercentHeightDemo', ':constraintLayoutDemo', ':BombView'
+include ':app', ':waveview', ':slidingconflictdemo', 'ChangeLineViewGroup', 'CustomLayoutDemo', 'dispatchTouchEvent', 'PercentHeightDemo', ':constraintLayoutDemo', ':BombView'
